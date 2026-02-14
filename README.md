@@ -38,6 +38,3 @@ Master: 2200–2299
 2-7 days
 ```
 
-Weekly Contests
-
-Biweekly Contests
